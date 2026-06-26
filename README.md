@@ -1,4 +1,5 @@
-# 💫 Hi 👋, I'm Muskan
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=600&height=120&lines=Hi+%2CI'm+Muskan!++;I+love++problem++solving;Passionate+about+coding%2C)](https://git.io/typing-svg)
+
 **A passionate Full Stack Developer || AI Enthusiastic || Mern Stack Developer*
 
 Email Me 👉 ✉️ **m13347555@gmail.com** For Collaboration/Project or Anything Else. 😊😊
